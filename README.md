@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+# Full Battery Alarm™
+[Available on aircatcher.GitHub.io](https://aircatcher.github.io/FullBatteryAlarm)<br/>
 
-You can use the [editor on GitHub](https://github.com/aircatcher/FullBatteryAlarm/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Getting Started
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_Follow these instructions to build and run the project without data; note that
+the app will be blank ._
 
-### Markdown
+1. Clone this repository.
+2. Download the appropriate [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+for your system. We are currently on JDK 8.
+3. [Install Android Studio](https://developer.android.com/sdk/index.html).
+4. Import the project. Open Android Studio, click `Open an existing Android
+   Studio project` and select the project. Gradle will build the project.
+5. Clean Build the project. Click `Build > Clean Build`.
+6. Run the app. Click `Run > Run 'app'`. After the project builds you'll be
+   prompted to build or launch an emulator.
+   
+## Contributing
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We intend for this project to be an educational resource: we are excited to
+share our plus and minus of our knowledge of Android development as we work
+in the open. Our primary focus is to continue improving the app for our users in
+line with our roadmap.
 
-```markdown
-Syntax highlighted code block
+The best way to submit feedback and report bugs is to open a Github issue.
+Please be sure to include your operating system, device, version number, and
+steps to reproduce reported bugs. Keep in mind that all participants will be
+expected to follow our code of conduct.
 
-# Header 1
-## Header 2
-### Header 3
+## Code of Conduct
 
-- Bulleted
-- List
+We aim to share our knowledge and findings as we work daily to improve our
+product, for our community, in a safe and open space. We work as we live, as
+kind and considerate human beings who learn and grow from giving and receiving
+positive, constructive feedback. We reserve the right to delete or ban any
+behavior violating this base foundation of respect.
 
-1. Numbered
-2. List
+## Want to Contribute?
 
-**Bold** and _Italic_ and `Code` text
+You can ask for our github contribution at [aircatcher.GitHub.io/FullBatteryAlarm](https://aircatcher.github.io/FullBatteryAlarm)
+Don't forget to fork us!
 
-[Link](url) and ![Image](src)
+## License
+
 ```
+Copyright 2017 Grand.XYZ
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Licensed under the  the Apache Software License, Version 2.0 ("Apache 2.0");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-### Jekyll Themes
+    http://www.apache.org/licenses/LICENSE-2.0
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aircatcher/FullBatteryAlarm/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
