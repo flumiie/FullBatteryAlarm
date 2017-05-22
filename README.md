@@ -38,7 +38,7 @@ behavior violating this base foundation of respect.
 
 ## Want to Contribute?
 
-You can ask for our github contribution at [aircatcher.GitHub.io/FullBatteryAlarm](https://aircatcher.github.io/FullBatteryAlarm)
+You can ask for our github contribution at [aircatcher.GitHub.io/FullBatteryAlarm](https://aircatcher.github.io/FullBatteryAlarm)</br>
 Don't forget to fork us!
 
 ## License
