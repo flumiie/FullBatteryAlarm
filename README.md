@@ -1,9 +1,9 @@
 # Full Battery Alarm™
 
-[![TravisCI](https://travis-ci.org/aircatcher/FullBatteryAlarm/jobs/242826659#)
-[![CircleCI](https://circleci.com/gh/aircatcher/Grandeur-Messenger.svg?style=svg)](https://circleci.com/gh/aircatcher/Grandeur-Messenger)
+[![Build Status](https://travis-ci.org/aircatcher/FullBatteryAlarm.svg?branch=master)](https://travis-ci.org/aircatcher/FullBatteryAlarm)
+[![CircleCI](https://circleci.com/gh/aircatcher/FullBatteryAlarm.svg?style=svg)](https://circleci.com/gh/aircatcher/FullBatteryAlarm)
 
-![Battery Info](screenshot/tab1.png)
+![Battery Info](screenshots/tab1.png)
 
 ## Getting Started
 
