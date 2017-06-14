@@ -1,6 +1,7 @@
 # Full Battery Alarm™
 
 [![Build Status](https://travis-ci.org/aircatcher/FullBatteryAlarm.svg?branch=master)](https://travis-ci.org/aircatcher/FullBatteryAlarm)
+[![Coverage Status](https://coveralls.io/repos/github/aircatcher/FullBatteryAlarm/badge.svg?branch=master)](https://coveralls.io/github/aircatcher/FullBatteryAlarm?branch=master)
 [![CircleCI](https://circleci.com/gh/aircatcher/FullBatteryAlarm.svg?style=svg)](https://circleci.com/gh/aircatcher/FullBatteryAlarm)
 
 ![Battery Info](screenshots/tab1.png)
